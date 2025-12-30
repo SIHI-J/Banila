@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.d851b1c8.css",
-    "main.js": "/static/js/main.8ea4ae55.js",
-    "index.html": "/index.html",
-    "main.d851b1c8.css.map": "/static/css/main.d851b1c8.css.map",
-    "main.8ea4ae55.js.map": "/static/js/main.8ea4ae55.js.map"
+    "main.css": "/Banila/static/css/main.d851b1c8.css",
+    "main.js": "/Banila/static/js/main.d3301711.js",
+    "index.html": "/Banila/index.html",
+    "main.d851b1c8.css.map": "/Banila/static/css/main.d851b1c8.css.map",
+    "main.d3301711.js.map": "/Banila/static/js/main.d3301711.js.map"
   },
   "entrypoints": [
     "static/css/main.d851b1c8.css",
-    "static/js/main.8ea4ae55.js"
+    "static/js/main.d3301711.js"
   ]
 }
